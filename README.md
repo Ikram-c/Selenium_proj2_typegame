@@ -1,4 +1,4 @@
-# Selenium_proj2_typegame
+# Selenium typing game project
 
 The aim of this project was to demonstrate how selenium and beautifulsoup (***webscraping libraries***) can be used to complete a basic online game using some of its simplest funcionalities. source website of game: https://www.typingstudy.com/. 
 
